@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm Brian, a software developer at [Espressif](https://www.espressif.com/).
+I'm Brian, a guy doing software development at [Espressif](https://www.espressif.com/).
 
-I'm doing stuff with TypeScript (JavaScript), Python and Embedded (C mostly) with ESP32 chips.
+I'm actively writing TypeScript (JavaScript), Python and Embedded (C mostly) with ESP32 chips.
 
 Know some Android Java and C# but its been some years since I've used them regularly.
 
