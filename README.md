@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Brian Alberto Ignacio Reyes
-
 Hi there 👋 I'm Brian, a software developer at [Espressif](https://www.espressif.com/).
 
 I'm doing stuff with TypeScript (JavaScript), Python and Embedded (C mostly) with ESP32 chips.
